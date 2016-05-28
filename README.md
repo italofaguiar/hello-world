@@ -12,4 +12,5 @@
 <p>t16 - calma ae</p>
 <p>t17 - agora vai</p>
 <p>t18 - commit/push pós PReq</p>
+<p>t19 - pos merge</p>
 

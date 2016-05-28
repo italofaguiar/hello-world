@@ -1,6 +1,6 @@
 # hello-world
---era um teste--
+// --era um teste--
 
 // ESTE É UM PEQUENO TESTE NO GITHUB.
 
-TESTE 3 e 4
+TESTE 3 e 4 + 5

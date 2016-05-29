@@ -18,4 +18,5 @@
 <p>m1  - direto no master - 1</p>
 <p>t22  - pos merge 4</p>
 <p>t23  - pos push</p>
+<p>t24  - pos push 2</p>
 

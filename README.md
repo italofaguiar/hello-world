@@ -19,4 +19,5 @@
 <p>t22  - pos merge 4</p>
 <p>t23  - pos push</p>
 <p>t24  - pos push 2</p>
+<p>t25</p>
 
